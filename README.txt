@@ -1,6 +1,7 @@
 Hello, i am ayush and this is a online CV/Resume.
  you can use this templates for free.
 
+Link : https://ayushsonone07.github.io/Portfolio/index.html
 
 Credits:
 
